@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "insight-agent-azure": {
+      "type": "http",
+      "url": "https://insightagent-mcp-server.livelydesert-d51e2e96.germanywestcentral.azurecontainerapps.io/mcp"
+    }
+  }
+}

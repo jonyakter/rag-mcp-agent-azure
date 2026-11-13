@@ -1,0 +1,119 @@
+ID: 001
+Question: How do I reset my password?
+Answer: To reset your password, go to the login page, click on "Forgot Password?", and follow the instructions sent to your email.
+
+ID: 002
+Question: How can I contact customer support?
+Answer: You can contact customer support by emailing support@example.com or by calling our helpline at 123-456-7890.
+
+ID: 003
+Question: Where can I track my order?
+Answer: You can track your order by logging into your account and navigating to the "Orders" section.
+
+ID: 004
+Question: What should I do if I received a damaged product?
+Answer: Please contact our support team immediately with your order number, and we'll assist you with a replacement or refund.
+
+ID: 005
+Question: How can I update my shipping address?
+Answer: To update your shipping address, log into your account, go to "Account Settings," and click "Edit Address."
+
+ID: 006
+Question: What is the return policy for online orders?
+Answer: You can return products within 30 days of receiving them. Please ensure they are unused and in the original packaging.
+
+ID: 007
+Question: How do I cancel my subscription?
+Answer: To cancel your subscription, go to "Account Settings" and click "Cancel Subscription" under the "Subscription" section.
+
+ID: 008
+Question: How do I change my email address?
+Answer: To change your email address, visit the "Account Settings" page, click "Edit Email," and enter your new email.
+
+ID: 009
+Question: Why is my payment failing?
+Answer: Please check that your credit card details are correct and ensure you have sufficient funds. If the problem persists, contact your bank.
+
+ID: 010
+Question: Can I change the billing address for my order?
+Answer: Yes, you can change the billing address in the "Billing Information" section during the checkout process.
+
+ID: 011
+Question: How do I unsubscribe from the newsletter?
+Answer: To unsubscribe from our newsletter, click the "Unsubscribe" link at the bottom of any newsletter email.
+
+ID: 012
+Question: What should I do if I forgot my username?
+Answer: Please click "Forgot Username" on the login page, and we'll send your username to your registered email.
+
+ID: 013
+Question: How do I know if my order has been shipped?
+Answer: You will receive a shipping confirmation email with tracking details once your order has been dispatched.
+
+ID: 014
+Question: Can I update my payment method after placing an order?
+Answer: Unfortunately, once an order is placed, the payment method cannot be changed. However, you can contact support for assistance.
+
+ID: 015
+Question: What is the status of my refund?
+Answer: Refunds are processed within 5-7 business days. If you haven't received it, please check with your bank or contact our support team.
+
+ID: 016
+Question: How do I reset my security questions?
+Answer: To reset your security questions, log into your account, go to "Security Settings," and select "Change Security Questions."
+
+ID: 017
+Question: How can I download my invoices?
+Answer: You can download your invoices from the "Order History" section under your account settings.
+
+ID: 018
+Question: Is it possible to expedite shipping?
+Answer: Yes, expedited shipping options are available during checkout. Choose the faster delivery method for quicker shipping.
+
+ID: 019
+Question: Can I apply a promo code to my order after checkout?
+Answer: Promo codes must be applied before checkout. Once the order is placed, we are unable to apply discounts retrospectively.
+
+ID: 020
+Question: How do I remove an item from my cart?
+Answer: To remove an item from your cart, simply click the "Remove" button next to the product in your shopping cart.
+
+ID: 021
+Question: What should I do if I received the wrong item?
+Answer: Please contact our customer support with your order number, and we'll arrange a return or exchange for the correct item.
+
+ID: 022
+Question: Can I track multiple orders at once?
+Answer: Yes, you can track multiple orders simultaneously by visiting the "Order History" section of your account.
+
+ID: 023
+Question: How do I update my payment details?
+Answer: Go to "Account Settings," select "Payment Methods," and click "Add New Payment" to update your payment details.
+
+ID: 024
+Question: Can I send a gift card to someone else?
+Answer: Yes, you can purchase a gift card and send it directly to the recipient via email.
+
+ID: 025
+Question: How do I redeem a gift card?
+Answer: You can redeem your gift card during checkout by entering the code in the "Gift Card" section.
+
+ID: 026
+Question: Why can’t I access my account?
+Answer: If you can't access your account, try resetting your password. If you still can't access it, please contact support for assistance.
+
+ID: 027
+Question: How do I enable two-factor authentication?
+Answer: To enable two-factor authentication, go to "Security Settings" in your account, and follow the instructions to set it up.
+
+ID: 028
+Question: Can I make changes to my order after it's been placed?
+Answer: Changes cannot be made once an order is submitted. However, you can contact support to check if modifications can be made before shipping.
+
+ID: 029
+Question: How do I change my password if I can’t log in?
+Answer: Click on "Forgot Password" on the login page, and follow the instructions to reset your password.
+
+ID: 030
+Question: How do I stop automatic renewals for my subscription?
+Answer: To stop automatic renewals, go to "Subscription Settings" and disable auto-renew for future billing cycles.

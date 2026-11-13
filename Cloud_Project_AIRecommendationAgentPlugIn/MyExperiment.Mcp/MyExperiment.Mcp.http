@@ -1,0 +1,30 @@
+@MyExperiment.Mcp_HostAddress = http://localhost:5080
+
+### List the tools
+GET {{MyExperiment.Mcp_HostAddress}}/tools
+
+### Tool 1 - Recommend
+POST {{MyExperiment.Mcp_HostAddress}}/recommend
+Content-Type: application/json
+
+{
+  "query": "find good sci-fi movie",
+  "topN": 5
+}
+
+### Tool 2 - Similarity check
+POST {{MyExperiment.Mcp_HostAddress}}/similarity
+Content-Type: application/json
+
+{
+  "query": "find good sci-fi movie",
+  "topN": 5
+}
+
+### Tool 3 - Generate embedding
+POST {{MyExperiment.Mcp_HostAddress}}/embedding
+Content-Type: application/json
+
+{
+  "text": "a scary horror movie"
+}

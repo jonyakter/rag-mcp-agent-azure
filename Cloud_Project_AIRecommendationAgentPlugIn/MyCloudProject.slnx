@@ -1,0 +1,23 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Documentation/">
+    <File Path="Documentation/Exercises - Firstname Lastname.md" />
+    <File Path="Documentation/Experiment Specification - Fiestname Lastname.md" />
+  </Folder>
+  <Folder Name="/Documentation/SampleFiles/">
+    <File Path="Documentation/SampleFiles/query.txt" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="AIRecommendation/AIRecommendation.csproj" />
+  <Project Path="MyCloudProject.Common/MyCloudProject.Common.csproj" />
+  <Project Path="MyCloudProject/MyCloudProject.csproj" />
+  <Project Path="MyExperiment.Mcp/MyExperiment.Mcp.csproj" />
+  <Project Path="MyExperiment/MyExperiment.csproj" />
+  <Project Path="UnitTests/UnitTests.csproj" />
+</Solution>
